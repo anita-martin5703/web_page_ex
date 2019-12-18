@@ -1,0 +1,45 @@
+body {
+    background: rgb(93, 138, 168);
+    color: rgb(0, 102, 51);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+    height: 80px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+section {
+    background: white;
+    color: rgb(0, 102, 51);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+div {
+    background: blanchedalmond;
+    margin: auto;
+    width: 500px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+
+}
+
+footer {
+    background: black;
+    padding: 10px 20px;
+}
